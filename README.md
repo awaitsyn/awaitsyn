@@ -7,7 +7,7 @@ Currently busy creating [Ansible](https://github.com/ansible/ansible) playbooks 
 
 ### Some stats
 
-[Contributions](https://marck.github.io/contributions.html)
+[Contributions](https://awaitsyn.github.io/contributions.html)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=awaitsyn&show_icons=true&theme=tokyonight)
 
